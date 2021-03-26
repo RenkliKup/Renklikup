@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Opencv
+- 🌱 I’m currently learning  Python,Opencv
 - 📫 How to reach me:baris.1907.krklk@gmail.com
 

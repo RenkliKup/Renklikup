@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning  Python,Opencv
-- 📫 How to reach me:baris.1907.krklk@gmail.com
+- 🌱 I’m currently learning  Python,Angular,Java Spring Boot
+- 📫 How to reach me:baris.karakulak@outlook.com
 
